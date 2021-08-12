@@ -1,10 +1,10 @@
 {
-  "name": "nest-gen",
+  "name": "gen-nest",
   "version": "1.0.0",
   "description": "nestjs cli generator template",
   "main": "lib/index.js",
   "bin": {
-    "nest-gen": "./lib/index.js"
+    "gen-nest": "./lib/index.js"
   },
   "repository": "https://github.com/MrZhangZc/nest-cli.git",
   "author": "zzc <jiayouzzc@126.com>",
